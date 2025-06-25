@@ -1,0 +1,64 @@
+# Archivos de Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+/output.json
+.cxx
+
+# Archivos de configuración de OS
+Thumbs.db
+desktop.ini
+
+# Archivos de log o temporales
+*.log
+*.swp
+
+# Archivos generados
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de NDK
+.obj/
+*.so
+
+# Google Services
+/google-services.json
+/app/google-services.json
+/firebase/
+
+# CI/CD y otros
+*.hprof
+.idea/
+*.ipr
+*.iws
+.cache/
+output/
+
+# Gradle
+.gradle/
+build/
+
+# Jetpack Compose
+**/build/
+**/composeGenerated/
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+
+# Flutter (si lo estás usando)
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache/
+.pub/
