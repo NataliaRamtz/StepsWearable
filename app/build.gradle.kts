@@ -122,4 +122,6 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.4")
     // Health Services
     implementation("androidx.health:health-services-client:1.1.0-alpha05")
+    implementation("androidx.core:core-ktx:1.13.1")
+
 }
